@@ -1,0 +1,207 @@
+{
+  "course-code": "seattle-code-301d103",
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "title": "Welcome to Code 301",
+        "link": "https://zoom.us/rec/share/EyaMFebTmiPWanRIqq7favXYc98sIcL5kU_cKOQHmyzHQkhGsSBkVMcNOdMNiwgX.2chSPSfwTPQ7vopR",
+        "date": "1701104400",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording-lecture": {
+            "title": "forEach, React-Props",
+            "link": "https://zoom.us/rec/share/ugTq6KwIjoyc-CcIYnTcArA5Ofa2uvd6uUPODmYlVkL6EcSXIRPdeXOiH1IH1hw.3WPB6B_A7gVnVD4L"
+          },
+          "alternate-recording-code-review": {
+            "title": "Code Review - Roger",
+            "link": "https://zoom.us/rec/share/HkoNLy9y3tSct0g_kh960dM-9TBVpUE-ikEfF7nxutjNDcGLWjnP_yq9FYUMmcvx.XBo-_A0Gk5kyLLAG"
+          }
+        }
+      },
+      "class-02": {
+        "title": "State and Props",
+        "link": "https://zoom.us/rec/share/IUopPRVveMKqAS97pmPznzSv5VPGIuvOTjJ901QateZoX0y6Ef0ReMhNhLoomjVS.PzUYDIwnunAigC_y",
+        "date": "1701190800",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording-lecture": {
+            "title": "React State, Bootstrap, .map",
+            "link": "https://zoom.us/rec/share/L8e9i49vcpM4gcQ_8hmUEwrPh1x9BHEWRP07xw-6EcOi1bbUokUaWAmY9cwhD55D.wf47dHJD0NwKPGcm"
+          },
+          "alternate-recording-code-review": {
+            "title": "Code Review - Roger",
+            "link": "https://zoom.us/rec/share/H7vmSFfsQlCbqP3LFkf1lNqPMIIct4SJ8cwrj-o4Gh95l_aNiKv0zZUTOEQgbwbM.73ildwYLvoIjc1zO?startTime=1689298240000"
+          }
+        }
+      },
+      "class-03": {
+        "title": "Passing Functions as Props",
+        "link": "https://zoom.us/rec/share/JqCdL1p-vQqVuXi9r-eOiyM8lYeJx7gxGjAhnpAVS8ADjhgTj3UrvsV1pH6qf9CL.ArV3H-UuvWnJq7Xa",
+        "date": "1701277200",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording-lecture": {
+            "title": ".filter, React Function Props, Netlify",
+            "link": "https://zoom.us/rec/share/uPL1F0Y-wyxNBDwxsvYC2xi1Ys-GTQdlHfNLiy4FPwr0uoASFdzvbbDvrB3XGUE.jpQdNXy6NdyxKkC2"
+          },
+          "alternate-recording-code-review": {
+            "title": "Code Review - Kyle",
+            "link": "https://zoom.us/rec/share/P4jKQEFTS2FveR8xdVhYa9RgT8E2fAAm8JESUhEIollVDeSa8ICnL8XFAAQX09r4.fOps4wY2fnuaxv32"
+          }
+        }
+      },
+      "class-04": {
+        "title": "React Forms",
+        "link": "https://zoom.us/rec/share/CTsNNTnb5EBnGbKGFGl4yiBCMtYknyH7ZWsokJBzKwL4-1BLtNZbhqjYD3p-BoiD.z8MTJiQPHClMUvvj",
+        "date": "1701363600",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording-lecture": {
+            "title": "Sort, React Forms",
+            "link": "https://zoom.us/rec/share/8FqagRdivrfpQZIA6Lkv7gUEhs3QR3Noo8XqRyhEqjboJCUP7tNNJhnPVUcBRPgD.gQImuKpzgoaFUqqJ"
+          },
+          "alternate-recording-code-review": {
+            "title": "Code Review - Josh",
+            "link": "https://zoom.us/rec/share/EIaZlLtPw46HU0jffmhaTtOrZLM1OkjVKJjc8yO-s1PxsBcqFXzFvY3pZiLxVcAD.jg9pXEqfPENVUzDE"
+          }
+        }
+      },
+      "class-05": {
+        "title": "React Portfolio",
+        "link": "https://zoom.us/rec/share/82BhjuUYzghWhceCflsbrvtTgD_wFyo2j8vEcVDUz6oFzhUNs6Yqb1PEdRSvq7Xp.3ZUnEnxBaFEQcV2_",
+        "date": "1701450000",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Reduce, City Explorer Preview",
+            "link": "https://zoom.us/rec/share/4g5q_GJ31t1md9G2Dnae1eJp46Acrpj2pLntI4oatQQWq4bPuCixH_krGE1eiMJQ.nEvA5Lem0eU0szKd"
+          }
+        }
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "title": "Asynchronous Code & 3rd Party APIs",
+        "link": "https://zoom.us/rec/share/fNu7WEpngoV5QBeEsVCQGd-5QUMXyfrS6s6HMx_pQizhOUFSj2jLztYiAHkvoFLe.zgEOFhF5x4rBExgn",
+        "timestamp": "1701709200",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Pass by Reference vs Pass By Value, Axios and APIs",
+            "link": "https://zoom.us/rec/share/1Hq3-iNkVQDjZXlXPWOYGwm5pK9cwNzFYz9rYwHOvGRNYVYpa26aBkOd4pBrFT2S.COC3Y6jjqqi8dcT-"
+          }
+        }
+      },
+      "class-07": {
+        "title": "Express Servers",
+        "link": "https://zoom.us/rec/share/Ji_8vmtlcyw6puIQDKMLs3LD-jdHeydt9blk4Wz05ly2ODQrfM4zw5LHm-4E6CPV.nJ6D-83v-4O9-DyA",
+        "timestamp": "1701795600",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Slice and Splice, API Server",
+            "link": "https://zoom.us/rec/share/7VS1DY72R7Gk_s4v7MsAjRgstdDXjAv4clvejfTPVsSn0JUVJW-jE_VTc5Ye9zik.9DaGlKE3brDfizco"
+          }
+        }
+      },
+      "class-08": {
+        "title": "APIs",
+        "link": "https://zoom.us/rec/share/Dkr_kfzYFsvAa11DjWH1fOzr1BuUCXweGjsiWP6MdhBcuqktJbmPObX5B192FiJp.ZrFyiiiYv8H36Ws4",
+        "timestamp": "1701882000",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Regex Part One, API Proxy Server",
+            "link": "https://zoom.us/rec/share/d34kk_Sl40fjQrjj6w3PQ3axrCdzcNDsaNg-s4QqKF_Rhmnfik0z53pGTSgmkaFf.gf8L97Z8uLdZkFEB"
+          }
+        }
+      },
+      "class-09": {
+        "title": "Refactoring & Modularization",
+        "link": "https://zoom.us/rec/share/vm3EnS8r9mJ9sDiSkBaOfM4zxVjXPjo4NQ8yfE9YqQkfBJ6op7ep6NlbJc93pov_.36ISqDgIhVD1DECf",
+        "timestamp": "1701968400",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Promises, Refactoring",
+            "link": "https://zoom.us/rec/share/EbCSu7jtDBrzqPm_PTet-shCePWvmFDSkKm8ExhfgzrlcYTrW9yrNZgPOJfhi721.3CUHv4c17Id6oHJF"
+          }
+        }
+      },
+      "class-10": {
+        "title": "Cache",
+        "link": "https://zoom.us/rec/share/qliJuGNWRxzYNCKCh_x78v5IyjzNY2KeRzVYn6OXid6m-YaAF_xidXEQJTc-8MTB.mOsS0AXM2DBOOVlk",
+        "timestamp": "1702054800",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Caching",
+            "link": "https://zoom.us/rec/share/ApgeMJ3VxpZ7t2xwZtbZk7Ngt1e8CjuAyAjOG7EGBl9Ua-tTkgQyvCqRTKUZ6rmF.R3tRplyNrBro8JHN"
+          }
+        }
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "title": "Mongo & Mongoose",
+        "link": "https://zoom.us/rec/share/YA_gNlARgiXH0ez4_0Yr2u9QLZKxJ_ggqBdFLeKZWjSBV8zE5fjV0mp26_jR7SZj.pvXKQg7z5JZc1dDb",
+        "timestamp": "1702314000",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Chaining Methods, Mongo DB and Mongoose",
+            "link": "https://zoom.us/rec/share/Ii2gU-paHc4JJLsGKl3cG_qaqPuL2qkjKNmZ98R5c0Ooh-5CaDRWxRhH0C24x4lo.TWwfCUbjT8JBTA18"
+          }
+        }
+      },
+      "class-12": {
+        "title": "Create & Delete",
+        "link": "https://zoom.us/rec/share/GzbTBKzufbejglTmQF5OdSHFu-scM1rvFB-jTSTYbduivsza9LA4H78BR2QysMP4.801-OtcX6RlRMfxu",
+        "timestamp": "1702400400",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Create and Delete",
+            "link": "https://zoom.us/rec/share/Wx7xjXLzQRKBRwRZy-YtoOMbmbdSGX8hXaMaQXxHiP4Pf1f7DmBeHIy38DcmYNiS.HBEUKfDgA6hKu2Wa"
+          }
+        }
+      },
+      "class-13": {
+        "title": "Update",
+        "link": "https://zoom.us/rec/share/ML0ljy2SaE2FzU_Ko-bgvYNBl0vUhdCx5XKcYQ37E1JyI7Jl3Q8TgwCkVWca6_6J.tHaR_NbIDkI751P3",
+        "timestamp": "1702486800",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Update",
+            "link": "https://zoom.us/rec/share/eUhbQu_MD5Vv07P6M6LmTcu2Zx3sbv76ryszR6QYQBLj5jEssSJjOBSllLcmqp08.cgk2JkxqXwTUp8oM"
+          }
+        }
+      },
+      "class-14": {
+        "title": "Diversity, Equity and Belonging in Tech / Exam prep",
+        "link": "https://zoom.us/rec/share/KwX8ChVyovPpb1n9SQum0n3yr6AqZDDE_yDccXrkOn7AS7lc_e2wlFgwju7a0TQT.5vvoCEjvStAZg1V2",
+        "timestamp": "1702573200",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Review",
+            "link": "https://zoom.us/rec/share/PkAnQmyGd7oXd9Drpoqu9PtWHEsrfHRElhk8ep09Ynizo1rHYAghtfe7g2aauTYa.au8WwZOvOjiRBngC"
+          }
+        }
+      },
+      "class-15": {
+        "title": "Project Kick Off & Exam Review",
+        "link": "https://zoom.us/rec/share/94UErYtIiKFguiIx_izSfA6BLANy3dtJHnMYkWFFI5bx4y-R_9zrI8lFV0Oi8eLh.vJEU-sSFmxA0DUJ0",
+        "timestamp": "1702659600",
+        "instructor": "JB Tellez",
+        "sessions": {
+          "alternate-recording": {
+            "title": "Auth0",
+            "link": "https://zoom.us/rec/share/7P8Phc5eK38lzTafDP071-H2O_gF1JRwM169H9OXy5JtBcP3KGtEJAE1kIXmxg0Y.siVUd5oD81Fwxh8R"
+          }
+        }
+      }
+    }
+  }
+}
